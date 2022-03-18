@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "ae3400d9e077bf09",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ed484a9cb9bcbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "System/Notes/W5D2.4-Main.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b251d9c8936cad71",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "System/Notes/GitHub Repo Guide.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccffd991ffc19db9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2bf32f1328632bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3792b49da53bd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b71c99d96816f764",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 191.5
+  },
+  "right": {
+    "id": "65711a3f1510f0be",
+    "type": "split",
+    "children": [
+      {
+        "id": "af9a0769e53cfabe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d5e28a27c69ab6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System/Notes/GitHub Repo Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef541f5b89bc99f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "active": "b251d9c8936cad71",
+  "lastOpenFiles": [
+    "System/Notes/GitHub Repo Guide.md",
+    "2.areas/Classes.md",
+    "System/Notes/W5D2.1-Main.md",
+    "System/Notes/W5D1.2-Code.md",
+    "System/Notes/W5D2.4-Main.md",
+    "0.inbox/Log.md",
+    "System/Notes/W5D2.3-Main.md",
+    "System/Notes/W5D1.1-Main.md",
+    "System/Notes/W5D4-Code.js.md",
+    "3.resources/Code/W5D2.code.js.md"
+  ]
+}
